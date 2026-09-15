@@ -1,0 +1,15 @@
+{
+  "test_tier_1_gclid": {
+    "gclid": "TeStGcLiD123",
+    "utm_source": "",
+    "landingpage": "/lp/heizung-tauschen"
+  },
+  "test_tier_2_utm": {
+    "utm_source": "facebook",
+    "landingpage": "/contact"
+  },
+  "test_tier_3_url_fallback": {
+    "utm_source": "",
+    "landingpage": "/lp/waermepumpe-berlin"
+  }
+}
